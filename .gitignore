@@ -1,5 +1,4 @@
 *.DS_Store
 *.idea/
-*.pdf
 *.pkl
 *__pycache__/
